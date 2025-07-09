@@ -1,0 +1,20 @@
+name: DeadDrop
+main: com.skulzry.stuff.DeadDrop
+version: 1.4.1
+api-version: 1.20
+
+commands:
+  heartcount:
+    description: Shows each player's maximum heart count
+    usage: /heartcount [player]
+  armor:
+    description: Shows a player's equipped armor with durability and enchantments
+    usage: /armor [player]
+
+permissions:
+  stuff.heartcount:
+    description: Use /heartcount
+    default: true
+  stuff.armor:
+    description: Use /armor
+    default: true

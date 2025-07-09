@@ -1,0 +1,3 @@
+token: "INSERT-HERE"
+preferred-channel: "system"
+guild-id: INSERT-HERE # guild-id is not required, and not recomended for global use.
