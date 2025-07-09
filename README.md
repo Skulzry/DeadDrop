@@ -1,2 +1,2 @@
 # DeadDrop
-Here is all the info to the Dead Drop plugin.
+This is a minecraft plugin! The commands are: `/armor <player>` and `/hearts <player>`.
